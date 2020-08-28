@@ -1,7 +1,2 @@
-# Flutter Facebook Responsive UI Tutorial
+# My Clone of Facebook with flutter
 
-[YouTube Tutorial](https://youtu.be/HvLb5gdUfDE)
-
-![Mobile Screenshot](screenshots/facebook-mobile.png)
-
-![Web Screenshot](screenshots/facebook-web.png)# eyebook
